@@ -1,4 +1,4 @@
-# Title
+# ProInformatikVII
 
 The purpose of this repository is to serve as data storage and to present the completed work of the course ProInformatik VII: Einstieg in die C-Programmierung at Freie Universität Berlin.
 
