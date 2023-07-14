@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -35,3 +36,6 @@ haben die Tutorien nur noch projektbegleitende Funktion.
 
 * Thore Brehmer - solved tasks + dev project
 * Jonny Lam - solved tasks + dev project
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
